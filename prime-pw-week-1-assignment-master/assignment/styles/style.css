@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color: grey;
+}
+h1 {
+  color: black;
+  text-align: center;
+}
+p {
+  color: black;
+  text-align:left;
+}
+</style>
+</head>
+<body>
+<h1>Hello World</h1>
+<p>"Check the console for JavaScript output"</p>
+</body>
+</html>
